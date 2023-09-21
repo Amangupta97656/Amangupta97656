@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amangupta97656" target="blank"><img src="https://img.shields.io/twitter/follow/amangupta97656?logo=twitter&style=for-the-badge" alt="amangupta97656" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science and Cyber Security**
 
 - 🌱 I’m currently learning **Database & Algorithm**
 
