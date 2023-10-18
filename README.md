@@ -1,4 +1,3 @@
-<h3 align="center">Achievements.</h3>
 [![An image of @amangupta97656's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amangupta97656)](https://holopin.io/@amangupta97656)
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">I am coding Enthusiast.</h3>
