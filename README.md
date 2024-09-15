@@ -44,7 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangupta97656&show_icons=true&locale=en" alt="amangupta97656" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta97656&" alt="amangupta97656" /></p>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e197a7d0-7ccf-47f0-b8ac-48a07710f937" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
